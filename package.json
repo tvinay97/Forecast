@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack",
-    "deploy": "npm run build && surge -p dist -d weather.vin"
+    "deploy": "npm run build && surge -p dist -d weather.xyz"
   },
   "repository": {
     "type": "git",
